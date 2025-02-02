@@ -4,6 +4,18 @@
 
 #define MAX_STRING_LENGTH 6
 
+
+
+
+
+
+
+*/this problem is uncompleted*/
+
+
+
+
+
 struct package
 {
 	char* id;
